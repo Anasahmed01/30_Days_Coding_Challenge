@@ -58,4 +58,49 @@
 // .
 // .
 // .
-// >>>>>>>>>>>>>>>>>>>>>>>>>>DOT INDECATOR START<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// >>>>>>>>>>>>>>>>>>>>>>>>>>DOT INDECATOR End<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// .
+// .
+// .
+// .
+// .
+// .
+// >>>>>>>>>>>>>>>>>>>>>>>>>>First_VIEW START<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// .
+// .
+// .
+// .
+// .
+// .
+// class FirstView extends StatelessWidget {
+//   const FirstView({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       backgroundColor: Colors.transparent,
+//       body: Padding(
+//         padding: const EdgeInsets.all(40.0),
+//         child: ClipRRect(
+//           borderRadius: BorderRadius.circular(10),
+//           child: Container(
+//             color: Colors.deepPurple[400],
+//           ),
+//         ),
+//       ),
+//     );
+//   }
+// }
+// .
+// .
+// .
+// .
+// .
+// .
+// >>>>>>>>>>>>>>>>>>>>>>>>>>First_VIEW END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// .
+// .
+// .
+// .
+// .
+// .
