@@ -65,7 +65,7 @@
 // .
 // .
 // .
-// >>>>>>>>>>>>>>>>>>>>>>>>>>First_VIEW START<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// >>>>>>>>>>>>>>>>>>>>>>>>>>FIRST_VIEW START<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 // .
 // .
 // .
@@ -97,7 +97,46 @@
 // .
 // .
 // .
-// >>>>>>>>>>>>>>>>>>>>>>>>>>First_VIEW END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// >>>>>>>>>>>>>>>>>>>>>>>>>>FIRST_VIEW END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// .
+// .
+// .
+// .
+// .
+// .
+// >>>>>>>>>>>>>>>>>>>>>>>>>>SECOND_VIEW START<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+// .
+// .
+// .
+// .
+// .
+// .
+// class SecondView extends StatelessWidget {
+//   const SecondView({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       backgroundColor: Colors.transparent,
+//       body: Padding(
+//         padding: const EdgeInsets.all(40.0),
+//         child: ClipRRect(
+//           borderRadius: BorderRadius.circular(10),
+//           child: Container(
+//             color: Colors.deepPurple[400],
+//           ),
+//         ),
+//       ),
+//     );
+//   }
+// }
+// .
+// .
+// .
+// .
+// .
+// .
+// >>>>>>>>>>>>>>>>>>>>>>>>>>SECOND_VIEW END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 // .
 // .
 // .
